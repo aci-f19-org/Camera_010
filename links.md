@@ -43,3 +43,7 @@ Morgan Williams https://github.com/willim15/Project2
 Queena Wang https://github.com/wangq20/Camera_010
 
 Ricardo Tovar https://rpi.box.com/s/0ou7nirlv3cqebm6w2gc0yp8pz20b0kr
+
+----
+
+Darius Smith https://github.com/Haldrion/kinectGame
